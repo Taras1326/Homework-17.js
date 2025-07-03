@@ -19,4 +19,4 @@
      // 4. Зміна першого елемента списку
      const list = document.getElementById('myList');
      const firstItem = list.querySelector('li');
-     firstItem.textContent = 'Оновлений перший елемент';
+     firstItem.textContent = 'Nazar';
